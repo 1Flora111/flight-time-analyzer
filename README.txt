@@ -1,7 +1,7 @@
  Flight Time Tracker
 
 Групаа: ИС-О-22/1
-Задание:
+Задание: 1 задание
 Автор: Кирилл Семенов 
 Программа: Flight Time Tracker  
 Язык: Java SE  
